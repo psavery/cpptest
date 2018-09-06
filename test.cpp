@@ -7,6 +7,7 @@ int main(int argc, char* argv[])
 
   int j = i + 2;
 
+  std::cout << "i is " << i << "\n";
   std::cout << "j is " << j << "\n";
 
   return 0;
